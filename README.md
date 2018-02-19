@@ -1,5 +1,6 @@
 # Miniex2-
 README 
+STOP reading. I'm not finished yet. Check again later! 
 
 I didnt really know what to code at first. But then this idea appeared in my mind. I wanted to make the user feel intrigued. I wanted to spike their curiosity. After this I wanted to surprise them, insult them even. This idea of emotional responses changing suddenly is something I consider to be "fun".  In order to create this shock I need some different elements 
 
