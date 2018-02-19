@@ -1,6 +1,6 @@
 # Miniex2-
 README 
-STOP reading. I'm not finished yet. Check again later! 
+
 ![alt text](miniex2.PNG) "miniex2"
 #### [Start the fun here] (https://cdn.rawgit.com/CathrineVilain/Miniex2-/7f9f67e9/p5/p5/empty-example/index.html)
 I didnt really know what to code at first. But then this idea appeared in my mind. I wanted to make the user feel intrigued. I wanted to spike their curiosity. After this I wanted to surprise them, insult them even. This idea of emotional responses changing suddenly is something I consider to be "fun".  In order to create this shock I need some different elements 
